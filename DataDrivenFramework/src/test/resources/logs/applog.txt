@@ -1,0 +1,24 @@
+INFO    2024-09-01 07:38:04,063 [main] base.BaseTest  - ---Test Execution started---
+INFO    2024-09-01 07:38:04,064 [main] base.BaseTest  - config property file loaded
+INFO    2024-09-01 07:38:04,064 [main] base.BaseTest  - OR property file loaded
+INFO    2024-09-01 07:38:05,987 [main] base.BaseTest  - Chrome browser launched
+INFO    2024-09-01 07:38:08,674 [main] base.BaseTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2024-09-01 07:38:09,130 [main] base.BaseTest  - DB Connection established
+INFO    2024-09-01 07:38:09,181 [main] base.BaseTest  - Clicking on an element bmlBtn_CSS
+INFO    2024-09-01 07:38:09,519 [main] base.BaseTest  - Finding an element addCustBtn_CSS
+INFO    2024-09-01 07:38:09,715 [main] base.BaseTest  - Clicking on an element addCustBtn_CSS
+INFO    2024-09-01 07:38:10,109 [main] base.BaseTest  - Typing in firstname_CSS and entered the value as Rahul
+INFO    2024-09-01 07:38:10,139 [main] base.BaseTest  - Typing in lastname_CSS and entered the value as Arora
+INFO    2024-09-01 07:38:10,172 [main] base.BaseTest  - Typing in postcode_CSS and entered the value as A234w4
+INFO    2024-09-01 07:38:12,220 [main] base.BaseTest  - Clicking on an element addcustomer_CSS
+INFO    2024-09-01 07:38:14,269 [main] base.BaseTest  - Clicking on an element addCustBtn_CSS
+INFO    2024-09-01 07:38:14,298 [main] base.BaseTest  - Typing in firstname_CSS and entered the value as Cory
+INFO    2024-09-01 07:38:14,327 [main] base.BaseTest  - Typing in lastname_CSS and entered the value as Paul
+INFO    2024-09-01 07:38:14,354 [main] base.BaseTest  - Typing in postcode_CSS and entered the value as S3w4w3
+INFO    2024-09-01 07:38:16,383 [main] base.BaseTest  - Clicking on an element addcustomer_CSS
+INFO    2024-09-01 07:38:18,429 [main] base.BaseTest  - Clicking on an element addCustBtn_CSS
+INFO    2024-09-01 07:38:18,458 [main] base.BaseTest  - Typing in firstname_CSS and entered the value as Rakesh
+INFO    2024-09-01 07:38:18,486 [main] base.BaseTest  - Typing in lastname_CSS and entered the value as Kumar
+INFO    2024-09-01 07:38:18,515 [main] base.BaseTest  - Typing in postcode_CSS and entered the value as S3432
+INFO    2024-09-01 07:38:20,544 [main] base.BaseTest  - Clicking on an element addcustomer_CSS
+INFO    2024-09-01 07:38:22,671 [main] base.BaseTest  - Test execution completed !!!

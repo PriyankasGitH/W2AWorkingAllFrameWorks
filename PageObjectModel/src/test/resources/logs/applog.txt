@@ -1,0 +1,7 @@
+INFO    2024-09-01 08:06:58,592 [main] base.BaseTest  - ---Test Execution started---
+INFO    2024-09-01 08:06:58,592 [main] base.BaseTest  - config property file loaded
+INFO    2024-09-01 08:06:58,592 [main] base.BaseTest  - OR property file loaded
+INFO    2024-09-01 08:07:00,069 [main] base.BaseTest  - Firefox browser launched
+INFO    2024-09-01 08:07:01,692 [main] base.BaseTest  - Navigated to : https://carwale.com
+INFO    2024-09-01 08:07:02,275 [main] base.BaseTest  - DB Connection established
+INFO    2024-09-01 08:07:06,194 [main] base.BaseTest  - Test execution completed !!!

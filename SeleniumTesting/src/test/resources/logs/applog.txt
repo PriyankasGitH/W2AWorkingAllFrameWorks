@@ -1,0 +1,9 @@
+INFO    2024-05-19 21:56:33,157 [main] testcases.TestProperties  - Test Execution started
+INFO    2024-05-19 21:56:33,159 [main] testcases.TestProperties  - OR Properties File Loaded
+INFO    2024-05-19 21:56:33,160 [main] testcases.TestProperties  - Config Properties File Loaded
+INFO    2024-05-19 21:56:35,792 [main] testcases.TestProperties  - Chrome browser launched !!!
+INFO    2024-05-19 21:56:37,313 [main] testcases.TestProperties  - Navigated to : http://facebook.com
+INFO    2024-05-19 21:56:37,569 [main] testcases.TestProperties  - Typing in username_ID and entered the value as trainer@way2automation.com
+INFO    2024-05-19 21:56:37,684 [main] testcases.TestProperties  - Typing in password_CSS and entered the value as dsfsdfsd
+INFO    2024-05-19 21:56:37,795 [main] testcases.TestProperties  - Clicking on an element signInBtn_XPATH
+INFO    2024-05-19 21:56:41,189 [main] testcases.TestProperties  - Test execution completed !!!
